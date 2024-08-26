@@ -64,7 +64,6 @@ body::after {
     padding: 2rem 1.5rem;
     width: 100%;
     text-align: center;
-    border: 1px solid red;
 }
 
 .text-content .title {
