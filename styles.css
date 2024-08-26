@@ -162,11 +162,11 @@ body::after {
     }
 
     .music {
-        max-width: 290px;
+        max-width: 299px;
     }
 
     .btn {
-        width: 90%;
+        width: 80%;
     }
 }
 
