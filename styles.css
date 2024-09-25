@@ -139,6 +139,20 @@ body::after {
     text-decoration: none;
 }
 
+.attribution {
+    position: absolute;
+    bottom: 10px;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: var(--dark-blue);
+}
+
+.attribution a:hover {
+    color: var(--bright-blue);
+}
+
 @media screen and (max-width: 500px) {
     body::after{
         width: 100%;
